@@ -2,7 +2,7 @@
 
 ## Descrição do projeto
 
-O projeto KenzieHub (Redux) consiste em uma refatoração completa do projeto [KenzieHub](https://github.com/Gabriel-Zarpellon/kenziehub-Gabriel-Zarpellon) utilizando o React Redux. 
+O projeto KenzieHub (Redux) consiste em uma refatoração completa do projeto [KenzieHub](https://github.com/Gabriel-Zarpellon/KenzieHub-React) utilizando o React Redux. 
 Sendo assim, todas as funções anteriormente desenvolvidas através de estados e contexto, agora estão construídas em stores, com thunks, actions e reducers.
 
 O projeto é desenvolvido em React, Redux e utiliza SASS para a estilização dos componentes.
